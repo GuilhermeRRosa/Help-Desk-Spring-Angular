@@ -4,7 +4,7 @@ public enum Perfil {
 
     ADMIN(0, "ROLE_ADMIN"),
     CLIENTE(1, "ROLE_CLIENTE"),
-    TECNICO(0, "ROLE_TECNICO");
+    TECNICO(2, "ROLE_TECNICO");
 
     private Integer codigo;
     private String descricao;
